@@ -1,0 +1,48 @@
+__pycache__
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+media
+
+# Backup files
+*.bak
+
+# If you are using PyCharm
+.idea/
+
+# If you are using VS Code
+.vscode/
+
+# Python virtual environment
+venv/
+env/
+.env
+
+# Static files
+staticfiles/
+
+# Local development settings
+local_settings.py
+
+# Secret key
+*.secret
+
+# Temporary files
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
